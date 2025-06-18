@@ -8,7 +8,8 @@ A web-based AI tool for predicting possible diseases based on patient health par
 - Shows prediction confidence and top 3 probable diseases
 - Provides health recommendations
 - Interactive and modern UI
-
+## Live Demo 🚀
+[View Live Demo](https://iamsagar2510-ai-desease-predictor-app-cjywb8.streamlit.app/)
 
 
 ## Getting Started
